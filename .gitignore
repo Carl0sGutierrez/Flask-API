@@ -1,0 +1,21 @@
+# Ignore Python cache and virtual environment directories
+__pycache__/
+*.pyc
+venv/
+
+# Ignore environment variable files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore compiled output
+/build
+/dist
+
+# Ignore node_modules directory for JavaScript/Node projects
+node_modules/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
